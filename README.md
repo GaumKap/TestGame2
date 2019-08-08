@@ -7,5 +7,6 @@ Language : GML (Game Maker Studio Language)
 
 
 Developed by GaumKap | 
-©SEGA Sonic Mania Plus : Tails Sprites | 
-©Nintendo Pokémon Dungeon Mystery : Eevee Sprites | 
+© SEGA Sonic Mania Plus : Tails Sprites | 
+© Nintendo Pokémon Dungeon Mystery : Eevee Sprites | 
+© Nintendo Super Mario Bros 3 : Mario/Luigi Sprites |
