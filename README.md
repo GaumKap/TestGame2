@@ -1,5 +1,5 @@
 ## Test Game 2 Project ##
-Last Update : 
+Last Update : 4 May 2018
 IDE : Game Maker Studio 2
 Language : GML (Game Maker Studio Language)
 
